@@ -1,4 +1,5 @@
 #  ALGORITMO CALIFICACIONES
+
 A continuación se presenta el speudocódigo creado para ponderar las calificaciones y calcular la nota final. 
 
 *Algoritmo CALIFICACIONES
