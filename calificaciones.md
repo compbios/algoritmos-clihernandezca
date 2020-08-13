@@ -21,5 +21,7 @@ A continuación se presenta el speudocódigo creado para ponderar las calificaci
 	Escribir 'nota final es:',F
 FinAlgoritmo
 
-## algoritmo  y ejecución.
+## Algoritmo y ejecución.
+Se realizó ejecución del algoritmo con la siguiente informacio: Parcial 1 nota de 4.5, parcial 2 con nota de 3.8, la nota obtenida de participación fue de 4.9 y la nota del examen final fue de 4.8. 
+
 ![calificaciones1](https://user-images.githubusercontent.com/69405634/90161357-9e3ed580-dd58-11ea-88b7-116130c3586c.png)
