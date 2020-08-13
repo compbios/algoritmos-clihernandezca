@@ -22,5 +22,4 @@ Se  estable  el seiguiente speudocódigo para cálcular el área y volumen de un
 ## Ejecución del algoritmo y diagrama de flujo
 A continuación se presenta el diagrama de flujo y  ejecución del pseudocódigo
 
-![Ejecucion Area-volumen](https://user-images.githubusercontent.com/69405634/90170729-11027d80-dd66-11ea-8df0-fe5de7124939.png)
-
+![Area y volumen cilindro](https://user-images.githubusercontent.com/69405634/90171072-8f5f1f80-dd66-11ea-8605-27226e32fd86.png)
