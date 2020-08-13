@@ -20,6 +20,6 @@ Se  estable  el seiguiente speudocódigo para cálcular el área y volumen de un
 * FinAlgoritmo
 
 ## Ejecución del algoritmo y diagrama de flujo
-A continuación se presenta el diagrama de flujo y  ejecución del pseudocódigo
+A continuación se presenta el diagrama de flujo y  ejecución del pseudocódigo tomando como ejemplo que el radio es 3 m y la altura de 5 cm. 
 
 ![Area y volumen cilindro](https://user-images.githubusercontent.com/69405634/90171072-8f5f1f80-dd66-11ea-8605-27226e32fd86.png)
