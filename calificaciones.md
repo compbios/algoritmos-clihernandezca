@@ -2,7 +2,7 @@
 
 A continuación se presenta el speudocódigo creado para ponderar las calificaciones y calcular la nota final. 
 *Algoritmo CALIFICACIONES
-*Escribir 'Escriba nota parcial 1'
+* Escribir 'Escriba nota parcial 1'
 *  Definir A Como Real
 * Leer A 
 *P1 <- A*0.25
