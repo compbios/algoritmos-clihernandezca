@@ -1,6 +1,6 @@
 #  ALGORITMO CALIFICACIONES
 A continuación se presenta el speudocódigo creado para ponderar las calificaciones y calcular la nota final
-Algoritmo CALIFICACIONES
+*Algoritmo CALIFICACIONES*
 	Escribir 'Escriba nota parcial 1'
 	Definir A Como Real
 	Leer A
@@ -21,8 +21,5 @@ Algoritmo CALIFICACIONES
 	Escribir 'nota final es:',F
 FinAlgoritmo
 
-
-![calificaciones](https://user-images.githubusercontent.com/69405634/90099040-360fd580-dcff-11ea-8416-86bfa5320aa6.png)
-## Ejecución del algoritmo
-![Ejecución Calificacion](https://user-images.githubusercontent.com/69405634/90099751-c864a900-dd00-11ea-9329-2258d837143c.png)
-
+## algoritmo  y ejecución.
+![calificaciones1](https://user-images.githubusercontent.com/69405634/90161357-9e3ed580-dd58-11ea-88b7-116130c3586c.png)
